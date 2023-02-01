@@ -1,4 +1,4 @@
-module github.com/open-feature/go-sdk/pkg/openfeature/v2
+module github.com/skyerus/go-sdk/pkg/openfeature/v2
 
 go 1.18
 
